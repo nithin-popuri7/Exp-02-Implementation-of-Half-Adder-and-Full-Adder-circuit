@@ -69,9 +69,15 @@ endmodule
 
 ### Output:
 ### RTL
+![full Lad](https://user-images.githubusercontent.com/94154780/190317127-34a166a6-4005-4863-9f84-39edc815140f.png)
+
+
 ### TIMING DIAGRAM
+![timinghf](https://user-images.githubusercontent.com/94154780/190317171-3a01ef94-3f74-4f80-9919-c4a704c2f422.jpg)
 
+### TRUTH TABLE
+![FUll](https://user-images.githubusercontent.com/94154780/190317249-3d10d836-9054-420b-ac45-2652feaa9011.jpeg)
 
-### TRUTH TABLE 
 
 ### Result:
+Thus, a half adder and full adder circuit is designed to verify its truth table in Quartus using Verilog programming.
