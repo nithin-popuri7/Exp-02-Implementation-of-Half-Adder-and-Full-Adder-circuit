@@ -60,16 +60,14 @@ assign carry = ((a&b)|(b&c)|(c&a));
 endmodule
 ```
 RTL 
-
-![github.logo](hf.png)
+![hf](https://user-images.githubusercontent.com/94154780/190316401-101bc987-0b27-4c1c-a5e0-6532b149f512.png)
 
 Truthtable
-
-![github.logo](FULL.png)
+![half1](https://user-images.githubusercontent.com/94154780/190316596-08e2e27d-3dc5-4685-999c-d0536d59b58e.jpeg)
 
 Timing Diagram
+![timinghf](https://user-images.githubusercontent.com/94154780/190316680-074f4875-cac4-4fb8-9f9f-09795ca34092.jpg)
 
-![github.logo](
 
 ### Output:
 ### RTL
