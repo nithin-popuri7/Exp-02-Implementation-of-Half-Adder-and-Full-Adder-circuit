@@ -65,7 +65,7 @@ endmodule
 ![half1](https://user-images.githubusercontent.com/94154780/190316596-08e2e27d-3dc5-4685-999c-d0536d59b58e.jpeg)
 
 ### Timing Diagram
-![timinghf](https://user-images.githubusercontent.com/94154780/190316680-074f4875-cac4-4fb8-9f9f-09795ca34092.jpg)
+![HTD](https://user-images.githubusercontent.com/94154780/190318836-7d0d22c1-c926-49a9-bc69-208fd15af784.jpg)
 
 
 ### Output:
