@@ -76,7 +76,9 @@ endmodule
 ![timinghf](https://user-images.githubusercontent.com/94154780/190317171-3a01ef94-3f74-4f80-9919-c4a704c2f422.jpg)
 
 ### TRUTH TABLE
-![FUll](https://user-images.githubusercontent.com/94154780/190317249-3d10d836-9054-420b-ac45-2652feaa9011.jpeg)
+<img width="875" alt="FAT" src="https://user-images.githubusercontent.com/94154780/190318424-94e40ef9-d0df-47ab-bb36-a28048e74b9e.png">
+
+
 
 
 ### Result:
