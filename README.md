@@ -69,7 +69,8 @@ endmodule
 
 ### Output:
 ### RTL
-![full Lad](https://user-images.githubusercontent.com/94154780/190317127-34a166a6-4005-4863-9f84-39edc815140f.png)
+![half1](https://user-images.githubusercontent.com/94154780/190317390-64539a7b-2768-499c-a2fb-d973cb7ca294.jpeg)
+
 
 
 ### TIMING DIAGRAM
