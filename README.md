@@ -45,8 +45,9 @@ input a,b;
 output sum,carry;
 xor(sum,a,b);
 and(carry,a,b);
-endmodule 
-
+endmodule
+~~~
+~~~
 ### Full Adder
 module FullAdder(a,b,c,sum,carry);
 input a,b,c;
